@@ -61,3 +61,15 @@ project
 └─ vite.config.ts
 
 ```
+
+
+
+
+
+
+
+
+
+
+
+hati ghid rakm ikhssi node model sir s l project files h terminal tapis npm install 
